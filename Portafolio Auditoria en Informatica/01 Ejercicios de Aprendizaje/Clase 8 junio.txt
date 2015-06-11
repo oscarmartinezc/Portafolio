@@ -1,0 +1,30 @@
+$ cd /c
+cd xampp
+cd htdocs
+
+clonar reposotirio
+git clone https://github.com/lc850/finalauditoria.gitcd
+
+cd finalauditoria
+
+Hacemos algun cambio y hacemos
+
+git add -A
+git commit -m "mensaje"
+git push origin master
+
+xs extra chico
+sm chico
+md mediana
+lg grande
+
+para insertar una imagen
+<img src="num.jpg" class="img-responsive">
+
+Para 3 rejillas
+
+<div class= "col-xs-4> algo <>
+<div class= "col-xs-4> algo <>
+<div class= "col-xs-4> algo <>
+
+bootswatch pagina pata temas

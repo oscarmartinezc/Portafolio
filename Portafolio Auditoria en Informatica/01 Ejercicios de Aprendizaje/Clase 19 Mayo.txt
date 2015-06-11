@@ -1,0 +1,12 @@
+https://github.com/lc850/auditoria
+
+
+Para irse al directorio Repositorios
+cd /c
+Cd /repostorios
+Cd /audtoria
+
+Para actualiar y jalar los archivos que se han subido
+
+
+git pull origin master

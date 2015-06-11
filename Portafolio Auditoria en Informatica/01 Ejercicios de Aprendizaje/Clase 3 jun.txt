@@ -1,0 +1,27 @@
+Pagina Web Auditoria en Informatica
+Repostorio lc850/auditoriaunidep
+
+1. Crear un archivo html con el contenido de la Unidad
+2. Subirlo al repositorio.
+3. Definir los hipervinculos a sus trabajos
+4. Definir un seria de comentarios
+5. Definir una vista para mostrar comentarios
+6. Actualizar todo en github
+
+_________________________________
+Unidad 1. Auditoria (H1, h2, h3)
+
+Auditoria es... (P)
+
+  __________________________ (HR)
+
+Escribe un comentario... ENVIAR (Input type="submit")
+(Textarea)
+
+
+Mostrar comentarios
+(P)  (
+
+
+Autor: Oscar  C 2015
+__________________________________

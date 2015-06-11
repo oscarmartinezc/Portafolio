@@ -1,0 +1,35 @@
+Git Comandos:
+$ git config --global user.name "OSCAR"
+$ git config --global user.email "oscar.martinezcontreras@gmail.com"
+$ git config --global color.ui true
+
+Para checar la configuracion:
+$ git config --global--list
+
+COMANDOS UNIX
+- cd /c .Para irse a la unidad C o a otra carpeta
+- pwd .Muestra ruta actual
+- ls .Lista archivos
+
+PARA
+git init .Es para inicializar proyecto
+git status .Ver estado Archivos
+git add -A .Agregar todos los achivos al repositorio. Todos los de la carpeta
+git commit -m "pagina en blanco" Se suben los cambios realizados.
+git log Lista los cambios que se han subido
+git log> logs.txt .Lista los logs que se han hecho
+
+AREAS DE GIT
+_____________________
+
+REPOSITORIO:
+
+
+
+
+STAGGING:
+
+
+
+
+WORKING:

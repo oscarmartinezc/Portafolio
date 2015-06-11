@@ -1,0 +1,24 @@
+gitPARA CLONAR REPOSITORIOS
+
+github.com/lc850/auditoria
+
+Cd /c
+Cd repositorios
+git clone URl
+
+git status
+git add -A
+git commit -m "zavala"
+
+Ya que alguien sube algo se tiene que hacer
+esto para jalarlo a nuestro repositorio
+
+git push origin master (Jala todo lo del repositorio)
+
+git pull origin maaster (Jala del repositorio a la pc)
+
+Jala todos los cambios de los compañeros
+git fetch
+
+Junta cambios de los compañeros con los cambios mios
+git merge origin/master

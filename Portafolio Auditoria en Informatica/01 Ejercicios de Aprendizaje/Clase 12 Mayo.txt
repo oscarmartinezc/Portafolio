@@ -1,0 +1,21 @@
+
+AUDITORIA EN INFORMÁTICA
+
+Unidad I. Terminología de la Auditoria en Informátrica
+Unidad II. La Auditooria en Informática y su Entorno
+Unidad III. Organización
+Unidad IV. Planeación
+Unidad V. Metodología para el desarrollo e implantación
+Unidad VI. Etapa preliminar o diagnóstico actual de la situación
+Unidad VII. Justificación
+Unidad VIII. Adecuación
+Unidad IX. Formalzación
+UNidad X. Desarrollo
+
+
+Git
+git bash
+
+git-scm.com
+Clave hithub: oscar.martinezcontreras@gmail.com
+       clave: gateway2013
